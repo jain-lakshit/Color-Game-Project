@@ -2,7 +2,7 @@
 > Given a RGB code, guess the colour from a certain choices.
 
 ## General info
-
+The game generates random RGB code everytime it is started, and six corresponding colors in hard mode and three in easy mode. Out of theese colors one color will be of the same RGB code that was generated. Our goal is to guess the correct color of the given RGB code. Whenever a wrong color is chosen, the box disappears and we cn choose another, this process happens until we choose the right color. On choosing the right color all boxes and the top bar changes its color to the correct RGB code. We can click on Play Again to start another game.
 
 ## Technologies
 * HTML
